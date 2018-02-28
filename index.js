@@ -10,3 +10,5 @@ You should NOT try to redefine any of the above variables.
 const randomNumber = Math.floor(Math.random() * 20)
 
 const randomInteger = Math.floor(randomNumber)
+
+const randomUserID = Math.ciel(Math.random() * 20)
