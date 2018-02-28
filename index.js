@@ -10,7 +10,7 @@ You should NOT try to redefine any of the above variables.
 
 newID = oldID + 1000000000
 
-
+ageIsValid = Number.isInteger(currentAge)
 
 
 const randomNumber = Math.floor(Math.random() * 20)
