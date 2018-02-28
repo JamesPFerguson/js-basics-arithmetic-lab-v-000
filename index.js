@@ -11,4 +11,4 @@ const randomNumber = Math.floor(Math.random() * 20)
 
 const randomInteger = Math.floor(randomNumber)
 
-const randomUserID = Math.ceil(Math.random() * 100000000) + 20
+const randomUserID = randomInteger + 100000000
